@@ -1,0 +1,15 @@
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/bin/Debug/net6.0/FinalTest
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/bin/Debug/net6.0/FinalTest.deps.json
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/bin/Debug/net6.0/FinalTest.runtimeconfig.json
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/bin/Debug/net6.0/FinalTest.dll
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/bin/Debug/net6.0/FinalTest.pdb
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.csproj.AssemblyReference.cache
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.AssemblyInfoInputs.cache
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.AssemblyInfo.cs
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.dll
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/refint/FinalTest.dll
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.pdb
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/FinalTest.genruntimeconfig.cache
+/Users/yana/Desktop/code/seminars/Final/GB/FinalTest/obj/Debug/net6.0/ref/FinalTest.dll
